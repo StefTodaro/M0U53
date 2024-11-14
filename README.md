@@ -1,2 +1,2 @@
 # M0U53
-An old style tex-based game in Italian about a genius mouse who tries to escape from the laboratory he and his family  are trapped in 
+An old style tex-based game, taht takes places in the 80s and it's inspired to the cartton show *"Pincky and the Brain"*. It's a sotry of a genius lab mouse (Mikola), who grow tired of all the experiments he and his family endured, so he comes up with a plan to escape during the night. He will have to face many dangers and use all its intellect to get out of his prison e defeat the ominois janitor. The game is in Italian.
